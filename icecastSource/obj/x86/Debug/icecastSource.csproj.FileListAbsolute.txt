@@ -1,0 +1,14 @@
+d:\documents\visual studio 2015\Projects\icecastSource\icecastSource\bin\x86\Debug\libgcc_s_sjlj-1.dll
+d:\documents\visual studio 2015\Projects\icecastSource\icecastSource\bin\x86\Debug\libmp3lame.32.dll
+d:\documents\visual studio 2015\Projects\icecastSource\icecastSource\bin\x86\Debug\libmp3lame.64.dll
+d:\documents\visual studio 2015\Projects\icecastSource\icecastSource\bin\x86\Debug\libogg-0.dll
+d:\documents\visual studio 2015\Projects\icecastSource\icecastSource\bin\x86\Debug\libshout-3.dll
+d:\documents\visual studio 2015\Projects\icecastSource\icecastSource\bin\x86\Debug\libspeex-1.dll
+d:\documents\visual studio 2015\Projects\icecastSource\icecastSource\bin\x86\Debug\libtheora-0.dll
+d:\documents\visual studio 2015\Projects\icecastSource\icecastSource\bin\x86\Debug\libvorbis-0.dll
+d:\documents\visual studio 2015\Projects\icecastSource\icecastSource\bin\x86\Debug\libwinpthread-1.dll
+d:\documents\visual studio 2015\Projects\icecastSource\icecastSource\bin\x86\Debug\icecastSource.exe
+d:\documents\visual studio 2015\Projects\icecastSource\icecastSource\bin\x86\Debug\icecastSource.pdb
+d:\documents\visual studio 2015\Projects\icecastSource\icecastSource\obj\x86\Debug\icecastSource.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\icecastSource\icecastSource\obj\x86\Debug\icecastSource.exe
+d:\documents\visual studio 2015\Projects\icecastSource\icecastSource\obj\x86\Debug\icecastSource.pdb
