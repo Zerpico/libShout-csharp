@@ -3,6 +3,7 @@
 
 Пример испльзования:
 
+
 class Program
 {
     static Libshout icecast;
