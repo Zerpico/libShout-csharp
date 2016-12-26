@@ -4,14 +4,12 @@
 Пример испльзования:
 
 
-class Program
-{
-    static Libshout icecast;
-    static byte[] buff = new byte[4096];
-    static int read;
-
     static void Main(string[] args)
     {
+        static Libshout icecast;
+        static byte[] buff = new byte[4096];
+        static int read;
+        
         string filename = "";
         if (args.Count() > 0)
             filename = args[0];
@@ -56,4 +54,4 @@ class Program
         Console.ReadKey(true);
         icecast.close();            
     }
-}
+
