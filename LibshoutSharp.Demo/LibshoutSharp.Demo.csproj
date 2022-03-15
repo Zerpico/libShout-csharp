@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssemblyName>LibshoutSharp.Demo</AssemblyName>
+    <RootNamespace>LibshoutSharp.Demo</RootNamespace>
+    <Platforms>x86;x64</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\LibshoutSharp\LibshoutSharp.csproj" />
+  </ItemGroup>
+
+</Project>
